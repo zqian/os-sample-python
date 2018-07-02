@@ -1,6 +1,6 @@
 gunicorn
 Flask
-angular-nvd3
-bootstrap
-moment
-underscore
+angular-nvd3==1.0.9
+bootstrap==3.3.7
+moment==2.18.1
+underscore==1.8.3
